@@ -4,7 +4,7 @@ Classic-style race portraits for **World of Warcraft: Forever**. Replaces the ei
 
 **[Download the texture pack](https://github.com/Aganmar/ForeverClassicCharacters/releases/latest/download/ForeverClassicCharacters.zip)**
 
-Tested in-game on Windows with Forever beta **1.60.1.70009**. `_This is a texture pack, not a Lua addon._;`
+Tested in-game on Windows with Forever beta **1.60.1.70009**. **_This is a texture pack, not a Lua addon._**
 
 ## Install
 
