@@ -38,12 +38,6 @@ If `CharacterCreateIcons.blp` already exists at this location, back it up first.
 
 **Never delete your entire Interface folder.**
 
-## If nothing changes
-
-Check the folder path above and restart the game completely. Confirm that you launched **Forever beta**, not Classic Era or another client. Other UI elements using the same texture may also display the replacement portraits.
-
-Future beta updates may change the texture layout. If portraits look incorrect after an update, uninstall this pack and check for a new release. Other builds and clients have not been tested.
-
 ## Editable artwork
 
 The PNG source is [artwork/CharacterCreateIcons.png](artwork/CharacterCreateIcons.png). It can be opened in Aseprite. Preserve the **2048 × 1024** canvas, atlas positions, and transparency. The game uses the BLP file; editing the PNG alone does not update the installed texture.
