@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "testedClient": "World of Warcraft: Forever beta",
+  "testedBuild": "1.60.1.70009",
+  "texturePath": "Interface/Glues/CharacterCreate/CharacterCreateIcons.blp",
+  "fileDataID": 1662186,
+  "dimensions": [
+    2048,
+    1024
+  ],
+  "sha256": "f6f0beee5aa22866c7d5b35472a4b14ec5b59acad8532e2462eec8ba4fd1b7f0"
+}
