@@ -1,6 +1,6 @@
 # Forever Classic Characters
 
-Classic-style race portraits for **World of Warcraft: Forever beta**. Replaces the eight original races' male and female character-creation portraits with edited Classic artwork. Horde portraits are mirrored to face inward in the character-creation screen.
+Classic-style race portraits for **World of Warcraft: Forever**. Replaces the eight original races' male and female character-creation portraits with edited Classic artwork. Horde portraits are mirrored to face inward in the character-creation screen.
 
 **[Download the latest texture pack](https://github.com/Aganmar/ForeverClassicCharacters/releases/latest/download/ForeverClassicCharacters.zip)**
 
