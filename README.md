@@ -38,10 +38,6 @@ If `CharacterCreateIcons.blp` already exists at this location, back it up first.
 
 **Never delete your entire Interface folder.**
 
-## Editable artwork
-
-The PNG source is [artwork/CharacterCreateIcons.png](artwork/CharacterCreateIcons.png). It can be opened in Aseprite. Preserve the **2048 × 1024** canvas, atlas positions, and transparency. The game uses the BLP file; editing the PNG alone does not update the installed texture.
-
 ![Current spritesheet](artwork/CharacterCreateIcons.png)
 
 ## Credits and rights
